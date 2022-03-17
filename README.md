@@ -1,3 +1,4 @@
+```
 def is_prime(num, n=2):
     if n >= num:
       return True
@@ -74,3 +75,4 @@ class PortThread(Thread):
 
 SenderThread().start()
 PortThread().start()
+```
